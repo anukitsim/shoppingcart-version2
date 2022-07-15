@@ -12,7 +12,10 @@ body{
     background-color: #acacac;
     
 }
-
+i{
+    cursor: pointer;
+    color: black;
+}
 
 /* styling navbar */
 
@@ -32,8 +35,8 @@ body{
 
 .cartAmount{
     position: absolute;
-    top: -7px;
-    right: -7px;
+    top: -10px;
+    right: -15px;
     font-size: 25px;
     color: white;
     padding: 3px;
